@@ -81,8 +81,8 @@ Ready to transform your coding education? Contact us to schedule a demo!
 | Contact Type | Details |
 |--------------|---------|
 | **Website** | [https://skycodehub.com](https://skycodehub.com) |
-| **Email** | contact@skycodehub.com |
-| **Business Inquiries** | business@skycodehub.com |
+| **Email** | support@skycodehub.com |
+| **Business Inquiries** | contact@skycodehub.com |
 
 ---
 
